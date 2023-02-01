@@ -3,7 +3,7 @@ package com.kh.person;
 public class YoonJiWoong extends Person {
 	
 	public YoonJiWoong() {
-		super("윤지웅", "IIII", 7)
+		super("윤지웅", "IIII", 7);
 	}
 
 	@Override
